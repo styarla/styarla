@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **UX principles and Accessibility design**
 
-- 👨‍💻 All of my projects are available at [https://shrinatyarla.framer.website/](https://shrinatyarla.framer.website/)
+- 👨‍💻 All of my projects are available at [Website Link](https://shrinatyarla.framer.website/)
 
 - 💬 Ask me about **UI/UX Design**
 
 - 📫 How to reach me **styarla@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IM57_wHnslbYazPW-3Ve90gyHtaLkPXa/view?usp=sharing](https://drive.google.com/file/d/1IM57_wHnslbYazPW-3Ve90gyHtaLkPXa/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1IM57_wHnslbYazPW-3Ve90gyHtaLkPXa/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
